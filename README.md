@@ -89,6 +89,3 @@ The program generates a line chart showing the **Closing Price Trend** of the st
 Developed by SRINITHI G K ✨
 Feel free to fork, improve, and use this project!
 
----
-
-👉 Do you want me to make this README in **Markdown file format (`README.md`)** so you can directly upload it to GitHub?
